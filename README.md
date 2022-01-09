@@ -4,7 +4,7 @@
 <h3> About</h3>
 <p>This is a Basic Banking System made for Sparks Foundation Jan 2022 Internship Program.</p>
 
-### Languages used
+###  Languages used
 FrontEnd 
 - HTML
 - CSS
@@ -16,5 +16,6 @@ Backend
 Database
 - MySql
 
-
+###  Flow
+Home Page > All Customers > Select and view One Customer > Transfer Money > Select Customer to Transfer Money > Transaction History
 
